@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Screenshot
 
-[My Desktop Screenshot](my-desktop-screenshot.png)
-[My Mobile Screenshot](my-mobile-screenshot.png)
+- [My Desktop Screenshot](my-desktop-screenshot.png)
+- [My Mobile Screenshot](my-mobile-screenshot.png)
 
 ### Links
 
